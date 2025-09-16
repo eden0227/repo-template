@@ -36,6 +36,10 @@ hello, world
 
 ## Changelog
 
+### [v1.1] - 2025-9-16
+
+-   Add placeholder files (.gitkeep)
+
 ### [v1.0] - 2025-9-16
 
 -   Add basic project repository template
