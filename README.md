@@ -26,6 +26,8 @@ hello, world
 > [!IMPORTANT]
 > Refer to official documentation for recommended best practices.
 
+---
+
 ## Tech Stack
 
 -   Version Control: **Git**
