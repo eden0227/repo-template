@@ -90,6 +90,12 @@ hello, world
 
 ## Changelog
 
+### [v2.0] - 2025-12-7
+
+-   Add Python and C boilerplates ([src](src))
+-   Add Makefile text file
+-   Add starter kit section ([README.md](README.md))
+
 ### [v1.1] - 2025-9-16
 
 -   Add placeholder files (.gitkeep)
